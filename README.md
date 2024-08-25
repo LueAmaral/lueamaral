@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Atualmente estou estudando PHP, React-Native e FireBase
+- 🌱 Atualmente estou estudando PHP, Flutter e FireBase
 - 😄 Pronomes: Todos
 
 ##
