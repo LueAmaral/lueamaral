@@ -13,22 +13,31 @@
 </div>
 
 ##
+### Tecnologias
 
-<div style=display: inline_block>
- <h3>Linguagens</h1>
- <br>
-  <img align="center" alt="Lue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lue-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Lue-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Lue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lue-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lue-FireBase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-  <img align="center" alt="Lue-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Lue-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Lue-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Lue-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Lue-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+<div align="center">
+
+**Front-end**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="36" />
+
+**Back-end**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="36" />
+
+**Mobile & Cloud**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="36" />
+
+**Ferramentas**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" height="36" />
+
 </div>
